@@ -16,6 +16,7 @@ const App = () =>
       timeout='none'
       position='bottom-right'
       stack={ { limit: 3 } }
+      offset={60}
       html={ true } />
   </div>
 

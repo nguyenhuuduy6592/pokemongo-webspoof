@@ -17,6 +17,8 @@ import Controls from './controls.js'
 import TotalDistance from './total-distance.js'
 import Autopilot from './autopilot.js'
 import Pokeball from './pokeball.js'
+import TargetMarker from './target.js'
+import PreviousMarker from './previous.js'
 
 import MapsApi from '../../config/api.js'
 
@@ -27,7 +29,7 @@ class Map extends Component {
 
   @observable mapOptions = {
     keyboardShortcuts: false,
-    draggable: true
+    draggable: false
   }
 
   componentWillMount() {
@@ -94,8 +96,9 @@ class Map extends Component {
             yesIWantToUseGoogleMapApiInternals={ true }
             apiKey={ MapsApi.apiKey }>
 
-            { /* userlocation center */ }
             <Pokeball lat={ userLocation[0] } lng={ userLocation[1] } />
+            <TargetMarker lat={ this.autopilot.currentPilot.destination.lat } lng={ this.autopilot.currentPilot.destination.lng } />
+            <PreviousMarker lat={ this.autopilot.currentPilot.previousLocation.lat } lng={ this.autopilot.currentPilot.previousLocation.lng } />
           </GoogleMap> :
           <div
             style={ {

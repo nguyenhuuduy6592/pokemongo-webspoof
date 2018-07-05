@@ -14,7 +14,8 @@ const travelModes = [
   [ 'subway', 50, 'subway' ],
   [ 'truck', 80, 'truck' ],
   [ 'car', 120, 'car' ],
-  [ 'teleport', '~', 'star' ]
+  [ 'teleport', '~', 'star' ],
+  [ 'circular', 13, 'refresh' ]
 ]
 
 @observer
@@ -22,6 +23,7 @@ class Autopilot extends Component {
 
   @observable isModalOpen = false
   @observable travelMode = 'walk'
+  @observable currentPilot = null
 
   @computed get speed() {
     const [ , speed ] = travelModes.find(([ t ]) => t === this.travelMode)
@@ -39,6 +41,7 @@ class Autopilot extends Component {
   }
 
   componentDidMount() {
+    this.currentPilot = autopilot
     // initialize algolia places input
     this.placesAutocomplete = places({ container: this.placesEl })
     this.placesAutocomplete.on('change', this.handleSuggestionChange)
@@ -52,7 +55,7 @@ class Autopilot extends Component {
         if (autopilot.running && !autopilot.paused) {
           autopilot.pause()
         } else if (autopilot.paused) {
-          autopilot.start()
+          autopilot.start(this.travelMode)
         }
       }
     })
@@ -70,7 +73,7 @@ class Autopilot extends Component {
     // TODO: Refactor it's ugly
     // update `autopilot` data
     autopilot.steps = JSON.parse(JSON.stringify(autopilot.accurateSteps))
-    autopilot.start()
+    autopilot.start(this.travelMode)
 
     this.isModalOpen = false
   }
@@ -109,7 +112,7 @@ class Autopilot extends Component {
       return (
         <div
           className='toggle resume btn btn-success'
-          onClick={ autopilot.start }>
+          onClick={ autopilot.start(this.travelMode) }>
           <i className='fa fa-play' />
         </div>
       )

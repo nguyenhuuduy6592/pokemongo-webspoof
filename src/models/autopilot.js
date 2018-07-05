@@ -16,6 +16,8 @@ class Autopilot {
   @observable distance = 0 // remaining distance to arrival in km
   @observable rawOverviewPath = null // save last query to re-calculate optimized route
   @observable destination = { lat: null, lng: null };
+  @observable travelMode = 'walking';
+  @observable previousLocation = { lat: null, lng: null };
 
   @computed get accurateSteps() {
     if (this.rawOverviewPath) {
@@ -49,6 +51,7 @@ class Autopilot {
   findDirectionPath = (lat, lng) => new Promise((resolve, reject) => {
     const { google: { maps } } = window
     this.destination = { lat, lng }
+    this.previousLocation = { lat: userLocation[0], lng: userLocation[1] }
 
     // prepare `directionsRequest` to google map
     const directionsService = new maps.DirectionsService()
@@ -64,6 +67,8 @@ class Autopilot {
       if (status === maps.DirectionsStatus.OK) {
         const { routes: [ { overview_path } ] } = response
         this.rawOverviewPath = overview_path
+        console.log('start_address: ', response.routes[0].legs[0].start_address)
+        console.log('end_address:   ', response.routes[0].legs[0].end_address)
         return resolve(overview_path)
       }
 
@@ -132,7 +137,8 @@ class Autopilot {
   }
 
   // move every second to next location into `this.steps`
-  start = () => {
+  start = (travelMode) => {
+    this.travelMode = travelMode
     this.running = true
     this.paused = false
 
@@ -148,6 +154,20 @@ class Autopilot {
         // move on to the next location
         if (this.steps.length !== 0) {
           this.timeout = setTimeout(moveNextPoint, 1000)
+        } else if (this.travelMode === 'circular') {
+          this.scheduleTrip(this.previousLocation.lat, this.previousLocation.lng)
+            .then(() => {
+              this.steps = JSON.parse(JSON.stringify(this.accurateSteps))
+              if (this.steps.length !== 0) {
+                setTimeout(moveNextPoint, 1000)
+              } else {
+                Alert.error(`
+                  <strong>Can not continue to move</strong>
+                  <div class='stack'>The path is too short, please start again.</div>
+                `, { timeout: 3000 })
+                this.stop()
+              }
+            })
         } else {
           this.stop()
         }
