@@ -191,6 +191,8 @@ class Autopilot {
     this.paused = false
     this.running = false
     this.distance = 0
+    this.destination = { lat: null, lng: null }
+    this.previousLocation = { lat: null, lng: null }
     this.steps.clear()
   }
 
