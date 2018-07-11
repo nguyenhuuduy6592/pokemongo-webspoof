@@ -112,7 +112,7 @@ class Autopilot extends Component {
       return (
         <div
           className='toggle resume btn btn-success'
-          onClick={ autopilot.start(this.travelMode) }>
+          onClick={() => autopilot.start(this.travelMode) }>
           <i className='fa fa-play' />
         </div>
       )
