@@ -1,0 +1,1764 @@
+{
+    "wpt": [
+      {
+        "lat": "21.016278999999997",
+        "lon": "105.85139499999991",
+        "name": "PokeStop: Rạp Đại Nam"
+      },
+      {
+        "lat": "21.035598",
+        "lon": "105.85116700000003",
+        "name": "PokeStop: Đền Bạch Mã"
+      },
+      {
+        "lat": "21.04603",
+        "lon": "105.88009199999999",
+        "name": "PokeStop: Nhà Trẻ Chin Én"
+      },
+      {
+        "lat": "21.04542",
+        "lon": "105.88077599999997",
+        "name": "PokeStop: Nhà văn hóa Hàng không"
+      },
+      {
+        "lat": "21.031702",
+        "lon": "105.82650000000001",
+        "name": "Gym: Chùa Kim Sơn"
+      },
+      {
+        "lat": "21.024243999999996",
+        "lon": "105.82019400000001",
+        "name": "Gym: Vietnam Exhibition and Fair Cent"
+      },
+      {
+        "lat": "21.031676",
+        "lon": "105.82706299999995",
+        "name": "PokeStop: Nhà Hát Kim Mã"
+      },
+      {
+        "lat": "21.023027",
+        "lon": "105.82262700000001",
+        "name": "PokeStop: Hae 시계 Sun Clock"
+      },
+      {
+        "lat": "21.027125999999996",
+        "lon": "105.82633499999997",
+        "name": "PokeStop: Nhà Bia Liệt Sĩ Ô Chợ Dừa"
+      },
+      {
+        "lat": "21.023348",
+        "lon": "105.82229400000006",
+        "name": "PokeStop: Nguyen Trai Sculture"
+      },
+      {
+        "lat": "21.031252",
+        "lon": "105.82319699999994",
+        "name": "PokeStop: Kim Ma Shrine"
+      },
+      {
+        "lat": "21.022711",
+        "lon": "105.82634699999994",
+        "name": "Gym: University Of Music In Hanoi"
+      },
+      {
+        "lat": "21.022832",
+        "lon": "105.82488799999999",
+        "name": "PokeStop: Thanh Nhan Pagoda"
+      },
+      {
+        "lat": "21.023438",
+        "lon": "105.82275900000002",
+        "name": "PokeStop: Drawing of Student in Van Hoa"
+      },
+      {
+        "lat": "21.029886",
+        "lon": "105.82817799999998",
+        "name": "PokeStop: Pullman Hotel's Chimney"
+      },
+      {
+        "lat": "21.012113",
+        "lon": "105.86329699999999",
+        "name": "PokeStop: Bến Xe Lương Yên"
+      },
+      {
+        "lat": "21.035781",
+        "lon": "105.86623099999997",
+        "name": "PokeStop: Tượng Quan Âm Bồ Tát- Quan Am Bo Tat statue"
+      },
+      {
+        "lat": "21.041278",
+        "lon": "105.86533699999995",
+        "name": "Gym: Chùa Ái Mộ - Ai Mo Pagoda"
+      },
+      {
+        "lat": "21.037956",
+        "lon": "105.87142399999993",
+        "name": "Gym: Bo De Monument"
+      },
+      {
+        "lat": "21.035246999999995",
+        "lon": "105.866807",
+        "name": "Gym: Cửa đền Chầu Bà - Chau Ba Temple Gate"
+      },
+      {
+        "lat": "21.037809999999997",
+        "lon": "105.86559199999999",
+        "name": "PokeStop: Đền Ghềnh - Ghenh Temple"
+      },
+      {
+        "lat": "21.038789",
+        "lon": "105.87041599999998",
+        "name": "PokeStop: Đình Ái Mộ"
+      },
+      {
+        "lat": "21.031344999999995",
+        "lon": "105.78731199999993",
+        "name": "PokeStop: Stone In Fountain"
+      },
+      {
+        "lat": "21.03059",
+        "lon": "105.785034",
+        "name": "PokeStop: BIDV Fountain"
+      },
+      {
+        "lat": "21.027239999999995",
+        "lon": "105.79005099999995",
+        "name": "PokeStop: Horse's Hoof Gate"
+      },
+      {
+        "lat": "21.028301999999996",
+        "lon": "105.79443400000002",
+        "name": "Gym: Ancient Tiger and Dragons"
+      },
+      {
+        "lat": "21.023246",
+        "lon": "105.79066599999999",
+        "name": "PokeStop: Trung Tam Van Hoa Yen Hoa"
+      },
+      {
+        "lat": "21.027977",
+        "lon": "105.79206999999997",
+        "name": "PokeStop: Triangle House"
+      },
+      {
+        "lat": "21.022761",
+        "lon": "105.78671499999996",
+        "name": "PokeStop: Right Lion King at Green Park Enterance"
+      },
+      {
+        "lat": "21.029422",
+        "lon": "105.79023000000007",
+        "name": "Gym: Play Ground of Wires"
+      },
+      {
+        "lat": "21.026528999999996",
+        "lon": "105.79444799999999",
+        "name": "PokeStop: Ha Yen Quyet Cementary"
+      },
+      {
+        "lat": "21.022688999999996",
+        "lon": "105.79013099999997",
+        "name": "Gym: Cong Trinh Cau Giay"
+      },
+      {
+        "lat": "21.02864",
+        "lon": "105.79123900000002",
+        "name": "PokeStop: Green"
+      },
+      {
+        "lat": "21.023879",
+        "lon": "105.79272900000001",
+        "name": "PokeStop: Chùa Cót"
+      },
+      {
+        "lat": "21.02673",
+        "lon": "105.79089699999997",
+        "name": "PokeStop: Cau Giay Park"
+      },
+      {
+        "lat": "21.031506",
+        "lon": "105.78553599999998",
+        "name": "PokeStop: Double Lions Glob"
+      },
+      {
+        "lat": "21.027493999999997",
+        "lon": "105.78651500000001",
+        "name": "PokeStop: Cung Tri Thuc Ha Noi"
+      },
+      {
+        "lat": "21.028491",
+        "lon": "105.78941099999997",
+        "name": "PokeStop: Water and Waves Gate"
+      },
+      {
+        "lat": "21.031581",
+        "lon": "105.787193",
+        "name": "PokeStop: 영혼이잠든곳"
+      },
+      {
+        "lat": "21.028312",
+        "lon": "105.79083700000001",
+        "name": "Gym: 스케이트장"
+      },
+      {
+        "lat": "21.029227999999996",
+        "lon": "105.79102799999998",
+        "name": "PokeStop: Ky Niem 1000nam Thang Long"
+      },
+      {
+        "lat": "21.044022",
+        "lon": "105.815696",
+        "name": "PokeStop: Đền Voi Phục"
+      },
+      {
+        "lat": "21.045211",
+        "lon": "105.86867200000006",
+        "name": "PokeStop: Nhà Cổ Ngọc Lâm"
+      },
+      {
+        "lat": "21.045",
+        "lon": "105.87300000000005",
+        "name": "PokeStop: Ngoc Lam pagoda"
+      },
+      {
+        "lat": "21.041682",
+        "lon": "105.794893",
+        "name": "PokeStop: Nghia Do Park"
+      },
+      {
+        "lat": "21.032421",
+        "lon": "105.79346299999997",
+        "name": "PokeStop: Chùa Bảo Tháp"
+      },
+      {
+        "lat": "21.034868999999997",
+        "lon": "105.791653",
+        "name": "PokeStop: Đình Thọ Cầu"
+      },
+      {
+        "lat": "21.034879",
+        "lon": "105.78905600000007",
+        "name": "Gym: Làng Cốm Vòng"
+      },
+      {
+        "lat": "21.036758",
+        "lon": "105.78509699999995",
+        "name": "PokeStop: Chua Thanh Chua"
+      },
+      {
+        "lat": "21.037184",
+        "lon": "105.79182300000002",
+        "name": "PokeStop: Sports Center in Cau Giay"
+      },
+      {
+        "lat": "21.035665999999996",
+        "lon": "105.78986800000007",
+        "name": "PokeStop: Lion Stone"
+      },
+      {
+        "lat": "21.044743999999998",
+        "lon": "105.80446899999993",
+        "name": "PokeStop: Đình Làng An Phú"
+      },
+      {
+        "lat": "21.017032",
+        "lon": "105.84423500000003",
+        "name": "PokeStop: Thong Nhat Park North Gate"
+      },
+      {
+        "lat": "21.021825",
+        "lon": "105.84886800000004",
+        "name": "PokeStop: Trung tâm văn hóa Việt Nhật"
+      },
+      {
+        "lat": "21.018682",
+        "lon": "105.84909700000003",
+        "name": "PokeStop: Korean Cultural Center"
+      },
+      {
+        "lat": "21.015393",
+        "lon": "105.844156",
+        "name": "Gym: Fountain CV Thong Nhat"
+      },
+      {
+        "lat": "21.014996",
+        "lon": "105.84485300000006",
+        "name": "PokeStop (Daily Task): Giraffe"
+      },
+      {
+        "lat": "21.014139",
+        "lon": "105.84918800000003",
+        "name": "PokeStop: Chùa Chân Tiên"
+      },
+      {
+        "lat": "21.014022",
+        "lon": "105.845551",
+        "name": "PokeStop: Study Friends"
+      },
+      {
+        "lat": "21.019473999999995",
+        "lon": "105.84611700000005",
+        "name": "PokeStop: Su Building"
+      },
+      {
+        "lat": "21.01685",
+        "lon": "105.84547700000007",
+        "name": "PokeStop: Steel Flower"
+      },
+      {
+        "lat": "21.018621999999997",
+        "lon": "105.84733699999992",
+        "name": "Gym: Metal Fountain"
+      },
+      {
+        "lat": "21.018715",
+        "lon": "105.84425099999999",
+        "name": "PokeStop: Chùa Thiền Quang"
+      },
+      {
+        "lat": "21.016355",
+        "lon": "105.84767",
+        "name": "PokeStop: Nhà hát chèo"
+      },
+      {
+        "lat": "21.019",
+        "lon": "105.84350599999993",
+        "name": "PokeStop: Chùa Quang Hoa"
+      },
+      {
+        "lat": "21.014549",
+        "lon": "105.84445000000005",
+        "name": "PokeStop: Merry Go Round"
+      },
+      {
+        "lat": "21.013785",
+        "lon": "105.84185100000002",
+        "name": "PokeStop: Choi Ngam"
+      },
+      {
+        "lat": "21.015311",
+        "lon": "105.84540700000002",
+        "name": "PokeStop (Daily Task): Pulling"
+      },
+      {
+        "lat": "21.016938999999997",
+        "lon": "105.842442",
+        "name": "Gym: Vietnam Central Circus"
+      },
+      {
+        "lat": "21.014676999999995",
+        "lon": "105.84369600000002",
+        "name": "PokeStop: A Dedication to Nerdy Girls"
+      },
+      {
+        "lat": "21.012389",
+        "lon": "105.85548799999992",
+        "name": "PokeStop: Shrine to Trung Sisters"
+      },
+      {
+        "lat": "21.020817999999995",
+        "lon": "105.85505999999998",
+        "name": "PokeStop: Mof"
+      },
+      {
+        "lat": "21.021042",
+        "lon": "105.85825799999998",
+        "name": "PokeStop: Đại Học Tổng Hợp Hà Nội"
+      },
+      {
+        "lat": "21.018461999999996",
+        "lon": "105.86039499999993",
+        "name": "PokeStop: Trung Tâm Kỹ Thuật Cao"
+      },
+      {
+        "lat": "21.021492",
+        "lon": "105.85777499999995",
+        "name": "Gym: José Martí Pérez Statue"
+      },
+      {
+        "lat": "21.020461",
+        "lon": "105.85334",
+        "name": "PokeStop: Phu Dieu Dong"
+      },
+      {
+        "lat": "21.018171",
+        "lon": "105.85314100000005",
+        "name": "Gym: Nhà Hát Tuổi Trẻ"
+      },
+      {
+        "lat": "21.021379",
+        "lon": "105.85615299999995",
+        "name": "PokeStop: Thanh Doan Hanoi"
+      },
+      {
+        "lat": "21.013277",
+        "lon": "105.80607299999997",
+        "name": "PokeStop: Chùa Trung Kính Thượng"
+      },
+      {
+        "lat": "21.013629999999996",
+        "lon": "105.80232699999999",
+        "name": "Gym: Ocean Fountain"
+      },
+      {
+        "lat": "21.018304",
+        "lon": "105.80394999999999",
+        "name": "Gym: Đền Vườn"
+      },
+      {
+        "lat": "21.012171",
+        "lon": "105.80081999999993",
+        "name": "PokeStop: Three Doors Mural"
+      },
+      {
+        "lat": "21.013332",
+        "lon": "105.80315199999995",
+        "name": "PokeStop: Eurpwindow Multi Complex"
+      },
+      {
+        "lat": "21.021719999999995",
+        "lon": "105.79669799999999",
+        "name": "PokeStop: Hạ Ỵên Quyết Temple"
+      },
+      {
+        "lat": "21.014086",
+        "lon": "105.79639900000006",
+        "name": "PokeStop: Holy Incinerator"
+      },
+      {
+        "lat": "21.012155",
+        "lon": "105.79919900000004",
+        "name": "PokeStop: Shrine At Trung Kính Hạ"
+      },
+      {
+        "lat": "21.017137999999996",
+        "lon": "105.798497",
+        "name": "PokeStop: Hero"
+      },
+      {
+        "lat": "21.013274999999997",
+        "lon": "105.79548899999998",
+        "name": "Gym: Chùa Trung Kính Hạ"
+      },
+      {
+        "lat": "21.019817",
+        "lon": "105.798361",
+        "name": "Gym: Fountain In The Garden"
+      },
+      {
+        "lat": "21.017020999999996",
+        "lon": "105.79810700000007",
+        "name": "PokeStop: National Archives Center"
+      },
+      {
+        "lat": "21.02748",
+        "lon": "105.85453699999994",
+        "name": "Gym: Lý Thái Tổ Statue"
+      },
+      {
+        "lat": "21.027184999999996",
+        "lon": "105.85633400000006",
+        "name": "PokeStop: Government Bank of Vietnam"
+      },
+      {
+        "lat": "21.026374",
+        "lon": "105.85602300000005",
+        "name": "PokeStop: Vườn hoa Con Cóc"
+      },
+      {
+        "lat": "21.024284",
+        "lon": "105.85743400000001",
+        "name": "PokeStop: Hanoi Opera House"
+      },
+      {
+        "lat": "21.024305999999996",
+        "lon": "105.85354000000007",
+        "name": "PokeStop: Thư viện khoa học kỹ thuật trung ương"
+      },
+      {
+        "lat": "21.027756",
+        "lon": "105.85374200000001",
+        "name": "PokeStop: Vuon Hoa"
+      },
+      {
+        "lat": "21.024695",
+        "lon": "105.85606800000005",
+        "name": "PokeStop: Hilton Opera Waterfall"
+      },
+      {
+        "lat": "21.025942",
+        "lon": "105.85232399999995",
+        "name": "PokeStop: Flower Basket"
+      },
+      {
+        "lat": "21.025668",
+        "lon": "105.85553299999992",
+        "name": "PokeStop: Hotel Sofitel Legend Metropole Hanoi"
+      },
+      {
+        "lat": "21.024296",
+        "lon": "105.85690299999999",
+        "name": "Gym: Hanoi Stock Exchange"
+      },
+      {
+        "lat": "21.025234",
+        "lon": "105.85677499999997",
+        "name": "Gym: Luala Bell"
+      },
+      {
+        "lat": "21.026237",
+        "lon": "105.85329899999999",
+        "name": "PokeStop: Tháp Hoà Phong"
+      },
+      {
+        "lat": "21.024883999999997",
+        "lon": "105.85991000000001",
+        "name": "Gym: Vietnam National Museum Of History"
+      },
+      {
+        "lat": "21.025526",
+        "lon": "105.86047699999995",
+        "name": "PokeStop: Blue Dragon Temple"
+      },
+      {
+        "lat": "21.026785999999998",
+        "lon": "105.85487999999998",
+        "name": "PokeStop: Fountain at Reception House"
+      },
+      {
+        "lat": "21.023637",
+        "lon": "105.85743100000002",
+        "name": "PokeStop: Water Fall at Hilton Hotel"
+      },
+      {
+        "lat": "21.025067999999997",
+        "lon": "105.85134199999993",
+        "name": "PokeStop: 河内家电大卖场西洋浮雕"
+      },
+      {
+        "lat": "21.029176999999997",
+        "lon": "105.85629500000005",
+        "name": "PokeStop: Dragon Fountain"
+      },
+      {
+        "lat": "21.031649",
+        "lon": "105.85330899999997",
+        "name": "Gym: Nhà hát múa rối nước"
+      },
+      {
+        "lat": "21.028315",
+        "lon": "105.85403900000006",
+        "name": "PokeStop: Hanoi City Hall "
+      },
+      {
+        "lat": "21.023325999999997",
+        "lon": "105.85710599999993",
+        "name": "Gym: Flower Park"
+      },
+      {
+        "lat": "21.030141999999998",
+        "lon": "105.853475",
+        "name": "PokeStop: Tượng người phụ nữ băng"
+      },
+      {
+        "lat": "21.026315",
+        "lon": "105.85172599999999",
+        "name": "PokeStop: Deer grass"
+      },
+      {
+        "lat": "21.030766999999997",
+        "lon": "105.853204",
+        "name": "PokeStop: Cầu Thê Húc"
+      },
+      {
+        "lat": "21.031946",
+        "lon": "105.85131200000001",
+        "name": "Gym: Lê Thái Tổ Fountain"
+      },
+      {
+        "lat": "21.028546",
+        "lon": "105.85512199999994",
+        "name": "PokeStop: Cung thiếu nhi"
+      },
+      {
+        "lat": "21.031",
+        "lon": "105.853794",
+        "name": "Gym: Tượng Đài Cảm Tử"
+      },
+      {
+        "lat": "21.024910999999996",
+        "lon": "105.85470599999996",
+        "name": "PokeStop: Kem Tràng Tiền"
+      },
+      {
+        "lat": "21.025765",
+        "lon": "105.85259999999994",
+        "name": "PokeStop: Song Bird"
+      },
+      {
+        "lat": "21.023336",
+        "lon": "105.85163899999998",
+        "name": "PokeStop: Bảo tàng phụ nữ Vietnam"
+      },
+      {
+        "lat": "21.02794",
+        "lon": "105.85128499999996",
+        "name": "PokeStop: Tháp Rùa"
+      },
+      {
+        "lat": "21.024054",
+        "lon": "105.85833300000002",
+        "name": "PokeStop: Nhà hát kịch Việt Nam"
+      },
+      {
+        "lat": "21.03139",
+        "lon": "105.85318200000006",
+        "name": "PokeStop: Hanoi Millenial Anniversary Statue"
+      },
+      {
+        "lat": "21.027176",
+        "lon": "105.85601599999995",
+        "name": "PokeStop: Sphere"
+      },
+      {
+        "lat": "21.030661999999996",
+        "lon": "105.856673",
+        "name": "PokeStop: Chùa Phúc Long - Phuc Long pagoda"
+      },
+      {
+        "lat": "21.024922",
+        "lon": "105.85833099999991",
+        "name": "PokeStop: Museum of Vietnamese Revolution"
+      },
+      {
+        "lat": "21.030442",
+        "lon": "105.85236899999995",
+        "name": "PokeStop: Pavillion Against Waves"
+      },
+      {
+        "lat": "21.023469999999996",
+        "lon": "105.85409400000003",
+        "name": "PokeStop: Vietnam National Library"
+      },
+      {
+        "lat": "21.027488",
+        "lon": "105.85489800000005",
+        "name": "PokeStop: Vườn hoa Con Công"
+      },
+      {
+        "lat": "21.025496999999998",
+        "lon": "105.85336899999993",
+        "name": "PokeStop: Paternité"
+      },
+      {
+        "lat": "21.023821999999996",
+        "lon": "105.85299499999996",
+        "name": "PokeStop: Kim Dong Theatre"
+      },
+      {
+        "lat": "21.03078",
+        "lon": "105.84974599999998",
+        "name": "PokeStop: Phá Trúc Lâm"
+      },
+      {
+        "lat": "21.024278999999996",
+        "lon": "105.84116100000006",
+        "name": "Gym: Hanoi Train Station"
+      },
+      {
+        "lat": "21.031316",
+        "lon": "105.84845199999995",
+        "name": "PokeStop: Lézards Muraux"
+      },
+      {
+        "lat": "21.03166",
+        "lon": "105.84977900000001",
+        "name": "PokeStop: Đình Cổ Vũ"
+      },
+      {
+        "lat": "21.029562",
+        "lon": "105.84922200000005",
+        "name": "PokeStop: Ly Trieu Quoc Su pagoda"
+      },
+      {
+        "lat": "21.027257",
+        "lon": "105.84310000000005",
+        "name": "PokeStop: Thien Phuc Pagoda"
+      },
+      {
+        "lat": "21.028899999999997",
+        "lon": "105.85034999999993",
+        "name": "PokeStop: Ba Da Pagoda"
+      },
+      {
+        "lat": "21.024527",
+        "lon": "105.84510599999999",
+        "name": "PokeStop: Chùa Quán Sứ"
+      },
+      {
+        "lat": "21.026816",
+        "lon": "105.84007700000006",
+        "name": "PokeStop: Ga Trần Quý Cáp"
+      },
+      {
+        "lat": "21.031769",
+        "lon": "105.84033",
+        "name": "PokeStop: Т34"
+      },
+      {
+        "lat": "21.02243",
+        "lon": "105.84505100000001",
+        "name": "PokeStop: Climax Water Fountain"
+      },
+      {
+        "lat": "21.026446",
+        "lon": "105.84914000000003",
+        "name": "PokeStop: National Library"
+      },
+      {
+        "lat": "21.028758",
+        "lon": "105.85123799999997",
+        "name": "PokeStop: Tuong Dai Le Thai To - Monument of King Le Thai To"
+      },
+      {
+        "lat": "21.023581",
+        "lon": "105.84956",
+        "name": "PokeStop: Kem Tràng Tiền"
+      },
+      {
+        "lat": "21.028862",
+        "lon": "105.84306900000001",
+        "name": "Gym: Phố Ẩm Thực"
+      },
+      {
+        "lat": "21.030393",
+        "lon": "105.84895099999994",
+        "name": "PokeStop: Den Phu Ung"
+      },
+      {
+        "lat": "21.031289999999995",
+        "lon": "105.84017300000005",
+        "name": "PokeStop: Park Gazebo"
+      },
+      {
+        "lat": "21.025211",
+        "lon": "105.84344399999998",
+        "name": "PokeStop: Fountain at the Roof Top"
+      },
+      {
+        "lat": "21.031436",
+        "lon": "105.84662600000001",
+        "name": "Gym: Vietnam National Tuong Theatre"
+      },
+      {
+        "lat": "21.027972",
+        "lon": "105.84886099999994",
+        "name": "PokeStop: Garden of Mary"
+      },
+      {
+        "lat": "21.025843",
+        "lon": "105.84997900000008",
+        "name": "PokeStop: Dong Men Thanh Gia"
+      },
+      {
+        "lat": "21.02471",
+        "lon": "105.85099500000001",
+        "name": "Gym: Chùa Hàng Uy"
+      },
+      {
+        "lat": "21.023004",
+        "lon": "105.84473000000003",
+        "name": "PokeStop: Friendship Cultural Palace"
+      },
+      {
+        "lat": "21.025178",
+        "lon": "105.84633899999994",
+        "name": "PokeStop: Hanoi Hilton Memorial"
+      },
+      {
+        "lat": "21.028852",
+        "lon": "105.848796",
+        "name": "PokeStop: Tranh Sinh Hoạt Của Chúa"
+      },
+      {
+        "lat": "21.026075",
+        "lon": "105.84620399999994",
+        "name": "PokeStop: Hanoi Tower"
+      },
+      {
+        "lat": "21.023102999999995",
+        "lon": "105.84390899999994",
+        "name": "Gym: Tượng đài hữu nghị Việt Xô"
+      },
+      {
+        "lat": "21.029465999999996",
+        "lon": "105.84860800000001",
+        "name": "PokeStop: Hanoi 1940 Historical Mural"
+      },
+      {
+        "lat": "21.030485",
+        "lon": "105.84857399999999",
+        "name": "PokeStop: ly quoc su Temple"
+      },
+      {
+        "lat": "21.027622999999995",
+        "lon": "105.84999500000004",
+        "name": "PokeStop: Hàng Trống Botanical Garden"
+      },
+      {
+        "lat": "21.030682",
+        "lon": "105.85110899999995",
+        "name": "PokeStop: Big Red Flower "
+      },
+      {
+        "lat": "21.027503",
+        "lon": "105.84955100000002",
+        "name": "Gym: Thư viện quận Hoàn Kiếm"
+      },
+      {
+        "lat": "21.028957999999996",
+        "lon": "105.84944099999996",
+        "name": "Gym: Nhà Thờ Lớn Hà Nội"
+      },
+      {
+        "lat": "21.037456",
+        "lon": "105.84832900000004",
+        "name": "PokeStop: Chua Vinh Tru "
+      },
+      {
+        "lat": "21.032902",
+        "lon": "105.84018800000001",
+        "name": "PokeStop: Bảo Tàng Quân Đội"
+      },
+      {
+        "lat": "21.042148",
+        "lon": "105.84754299999997",
+        "name": "PokeStop: 선교사"
+      },
+      {
+        "lat": "21.035379999999996",
+        "lon": "105.84807",
+        "name": "PokeStop: Dinh Dong Thânh "
+      },
+      {
+        "lat": "21.039875",
+        "lon": "105.84961499999997",
+        "name": "Gym: Ba Moc Temple"
+      },
+      {
+        "lat": "21.036514",
+        "lon": "105.84106900000006",
+        "name": "PokeStop: Kinh Thien Palace Relic"
+      },
+      {
+        "lat": "21.040776",
+        "lon": "105.84071399999993",
+        "name": "PokeStop: Cua Bac Relic"
+      },
+      {
+        "lat": "21.034071999999995",
+        "lon": "105.84051599999998",
+        "name": "PokeStop: Us Airforce Old Plane "
+      },
+      {
+        "lat": "21.036226",
+        "lon": "105.84032200000001",
+        "name": "PokeStop: Dragon Steps"
+      },
+      {
+        "lat": "21.033265",
+        "lon": "105.84033499999998",
+        "name": "PokeStop: Freedom"
+      },
+      {
+        "lat": "21.032633",
+        "lon": "105.84897000000001",
+        "name": "PokeStop: Cat Dyvain"
+      },
+      {
+        "lat": "21.040135",
+        "lon": "105.847579",
+        "name": "Gym: Bốt Hàng Đậu"
+      },
+      {
+        "lat": "21.035723",
+        "lon": "105.84911999999997",
+        "name": "PokeStop: Old Quarter Street Mural"
+      },
+      {
+        "lat": "21.035293999999997",
+        "lon": "105.84024499999998",
+        "name": "PokeStop: Hanoi Imperial Citadel"
+      },
+      {
+        "lat": "21.04098",
+        "lon": "105.84952599999997",
+        "name": "PokeStop: Phúc Lâm pagoda"
+      },
+      {
+        "lat": "21.033688999999995",
+        "lon": "105.84714699999995",
+        "name": "Gym: 仁安靈祠"
+      },
+      {
+        "lat": "21.038504",
+        "lon": "105.84860099999992",
+        "name": "PokeStop: Điểu xuyên"
+      },
+      {
+        "lat": "21.037071",
+        "lon": "105.84706899999992",
+        "name": "PokeStop: Tam Phu Linh Tu"
+      },
+      {
+        "lat": "21.036073",
+        "lon": "105.84967899999992",
+        "name": "PokeStop: Gray Temple "
+      },
+      {
+        "lat": "21.03573",
+        "lon": "105.84698100000003",
+        "name": "PokeStop: Chua Thai Cam"
+      },
+      {
+        "lat": "21.037937",
+        "lon": "105.849111",
+        "name": "PokeStop: Dong Xuan Market"
+      },
+      {
+        "lat": "21.042371",
+        "lon": "105.84714399999996",
+        "name": "PokeStop: Chùa Hòe Nhai"
+      },
+      {
+        "lat": "21.040125999999997",
+        "lon": "105.84625600000004",
+        "name": "PokeStop: Quyết Tử Cho Tổ Quốc Quyết Sinh"
+      },
+      {
+        "lat": "21.038524999999996",
+        "lon": "105.84900500000003",
+        "name": "PokeStop: Huyền Thiên pagoda"
+      },
+      {
+        "lat": "21.033859",
+        "lon": "105.85074699999996",
+        "name": "PokeStop: Little Hanoi restaurant"
+      },
+      {
+        "lat": "21.041206",
+        "lon": "105.84059400000001",
+        "name": "Gym: Nhà thờ Cửa Bắc"
+      },
+      {
+        "lat": "21.033040999999997",
+        "lon": "105.85005100000001",
+        "name": "PokeStop: Thăng Long Theatre"
+      },
+      {
+        "lat": "21.038325",
+        "lon": "105.850459",
+        "name": "PokeStop: Vielle Bâtisse "
+      },
+      {
+        "lat": "21.037829999999996",
+        "lon": "105.84738900000002",
+        "name": "PokeStop: Thánh đường hồi giáo Al-noor"
+      },
+      {
+        "lat": "21.036085",
+        "lon": "105.85219200000006",
+        "name": "PokeStop: Di sản phố cổ 28 Hàng Buồm"
+      },
+      {
+        "lat": "21.033032",
+        "lon": "105.85199999999998",
+        "name": "PokeStop: Chuông Vàng Theatre"
+      },
+      {
+        "lat": "21.036348",
+        "lon": "105.85323799999992",
+        "name": "PokeStop: Hầm cầu Chương Dương"
+      },
+      {
+        "lat": "21.035503",
+        "lon": "105.85420999999997",
+        "name": "PokeStop: Ngôi nhà di sản Mã Mây"
+      },
+      {
+        "lat": "21.032379999999996",
+        "lon": "105.85386800000003",
+        "name": "PokeStop: Kolam Kering"
+      },
+      {
+        "lat": "21.032379",
+        "lon": "105.85155299999997",
+        "name": "PokeStop: Hàm Cá Mập"
+      },
+      {
+        "lat": "21.032364999999995",
+        "lon": "105.85465199999999",
+        "name": "PokeStop: D'ivin"
+      },
+      {
+        "lat": "21.037319",
+        "lon": "105.85218199999997",
+        "name": "PokeStop: Ô Quan Chưởng"
+      },
+      {
+        "lat": "21.035452",
+        "lon": "105.85480699999994",
+        "name": "PokeStop: Hanoi Ceramic Mosaic Mural"
+      },
+      {
+        "lat": "21.034397",
+        "lon": "105.85247800000002",
+        "name": "PokeStop: National Ca Tru Theatre"
+      },
+      {
+        "lat": "21.029731999999996",
+        "lon": "105.81087000000002",
+        "name": "Gym: Ngoc Khanh Cinema"
+      },
+      {
+        "lat": "21.025149999999996",
+        "lon": "105.81696599999998",
+        "name": "PokeStop: Đình làng Giảng Võ"
+      },
+      {
+        "lat": "21.024722",
+        "lon": "105.81666599999994",
+        "name": "Gym: Đài tưởng niệm liệt sĩ Giảng Võ"
+      },
+      {
+        "lat": "21.030862",
+        "lon": "105.81288500000005",
+        "name": "PokeStop: Daewoo Hotel"
+      },
+      {
+        "lat": "21.028885",
+        "lon": "105.81139899999994",
+        "name": "PokeStop: Đình Ngọc Khánh"
+      },
+      {
+        "lat": "21.030801",
+        "lon": "105.81199700000002",
+        "name": "PokeStop: Big Pot in Daewoo Hotel"
+      },
+      {
+        "lat": "21.019297",
+        "lon": "105.79328299999997",
+        "name": "PokeStop: Chelsea Park"
+      },
+      {
+        "lat": "21.021383",
+        "lon": "105.79138499999999",
+        "name": "PokeStop: Swooping Eagle"
+      },
+      {
+        "lat": "21.019003",
+        "lon": "105.79304300000001",
+        "name": "Gym: Chelsea Park's Fountain"
+      },
+      {
+        "lat": "21.020614999999996",
+        "lon": "105.78681299999994",
+        "name": "Gym: A Very Small Shrimp"
+      },
+      {
+        "lat": "21.018160999999996",
+        "lon": "105.79170199999999",
+        "name": "PokeStop (Daily Task): Golden Lion"
+      },
+      {
+        "lat": "21.01777",
+        "lon": "105.793227",
+        "name": "Gym: Fancy Gate"
+      },
+      {
+        "lat": "21.034422999999997",
+        "lon": "105.81415400000003",
+        "name": "PokeStop: Communist Board"
+      },
+      {
+        "lat": "21.037811",
+        "lon": "105.80836899999997",
+        "name": "Gym: Chua Dinh Cong Vi"
+      },
+      {
+        "lat": "21.032375",
+        "lon": "105.81283499999995",
+        "name": "Gym: Lotte Center Hanoi"
+      },
+      {
+        "lat": "21.038532",
+        "lon": "105.80824800000005",
+        "name": "PokeStop: Bao Tang Phao Binh"
+      },
+      {
+        "lat": "21.037632",
+        "lon": "105.80850299999997",
+        "name": "PokeStop: Stones in the Pond"
+      },
+      {
+        "lat": "21.044112",
+        "lon": "105.84170199999994",
+        "name": "PokeStop: Chùa Châu Long"
+      },
+      {
+        "lat": "21.021485",
+        "lon": "105.82196099999999",
+        "name": "PokeStop: Đình Hoàng Cầu"
+      },
+      {
+        "lat": "21.014035",
+        "lon": "105.82486700000004",
+        "name": "PokeStop: Trần Quang Diệu Public Park"
+      },
+      {
+        "lat": "21.015075999999997",
+        "lon": "105.82579999999996",
+        "name": "PokeStop: Mural"
+      },
+      {
+        "lat": "21.021348999999997",
+        "lon": "105.81807000000003",
+        "name": "Gym: Merlion in Hanoi"
+      },
+      {
+        "lat": "21.015137999999997",
+        "lon": "105.82658800000002",
+        "name": "PokeStop: Đền Thánh Giê Ra Đô"
+      },
+      {
+        "lat": "21.014778",
+        "lon": "105.82698299999993",
+        "name": "PokeStop: Dòng Chúa Cứu Thế Hà Nội"
+      },
+      {
+        "lat": "21.01282",
+        "lon": "105.82400200000006",
+        "name": "PokeStop: Tượng đài Quang Trung"
+      },
+      {
+        "lat": "21.017110999999996",
+        "lon": "105.82838500000003",
+        "name": "Gym: Cổng Chùa Nam Đồng"
+      },
+      {
+        "lat": "21.012926999999998",
+        "lon": "105.82831199999998",
+        "name": "PokeStop: Glass Painting"
+      },
+      {
+        "lat": "21.016738",
+        "lon": "105.82691399999999",
+        "name": "PokeStop: June 1st Garden"
+      },
+      {
+        "lat": "21.020403",
+        "lon": "105.836771",
+        "name": "PokeStop: Nhà bia liệt sĩ phường Khâm Thiên"
+      },
+      {
+        "lat": "21.021817",
+        "lon": "105.83473700000002",
+        "name": "PokeStop: La Hán Statue"
+      },
+      {
+        "lat": "21.021252",
+        "lon": "105.83418800000004",
+        "name": "PokeStop: Chùa Bụt Mọc"
+      },
+      {
+        "lat": "21.017434999999995",
+        "lon": "105.83665999999994",
+        "name": "PokeStop: Chùa Phụng Thánh"
+      },
+      {
+        "lat": "21.019363",
+        "lon": "105.83359900000005",
+        "name": "PokeStop: Chùa Linh Ứng"
+      },
+      {
+        "lat": "21.013925",
+        "lon": "105.83152599999994",
+        "name": "Gym: Cland Bld - 1000 Years of Thang Long"
+      },
+      {
+        "lat": "21.015325",
+        "lon": "105.830694",
+        "name": "Gym: Chua Xa Dan"
+      },
+      {
+        "lat": "21.018937",
+        "lon": "105.83852100000001",
+        "name": "Gym: Kham Thien Memorial"
+      },
+      {
+        "lat": "21.021792",
+        "lon": "105.83504100000005",
+        "name": "Gym: Miếu thờ họ"
+      },
+      {
+        "lat": "21.015403",
+        "lon": "105.83014200000002",
+        "name": "PokeStop (Daily Task): Xã Đàn Pagoda"
+      },
+      {
+        "lat": "21.017",
+        "lon": "105.82919600000002",
+        "name": "PokeStop (Daily Task): Đình Nam Đồng"
+      },
+      {
+        "lat": "21.020752",
+        "lon": "105.806422",
+        "name": "PokeStop: Pháo Đài Láng"
+      },
+      {
+        "lat": "21.017959",
+        "lon": "105.81556699999999",
+        "name": "PokeStop: Indira Gandhi Park"
+      },
+      {
+        "lat": "21.018207999999998",
+        "lon": "105.81216399999994",
+        "name": "Gym: Âu Cơ Theatre"
+      },
+      {
+        "lat": "21.016881",
+        "lon": "105.81541199999992",
+        "name": "PokeStop: National Cinema Center"
+      },
+      {
+        "lat": "21.012178",
+        "lon": "105.81171799999993",
+        "name": "PokeStop: Tree On The Wall"
+      },
+      {
+        "lat": "21.022317999999995",
+        "lon": "105.83654000000001",
+        "name": "PokeStop: Đình chùa Linh Quang"
+      },
+      {
+        "lat": "21.030936",
+        "lon": "105.83577600000001",
+        "name": "PokeStop: Saint Paul Hospital "
+      },
+      {
+        "lat": "21.029848",
+        "lon": "105.83656999999994",
+        "name": "Gym: The Great Drum"
+      },
+      {
+        "lat": "21.028636",
+        "lon": "105.83753899999999",
+        "name": "PokeStop: Ngọc Hổ Tự"
+      },
+      {
+        "lat": "21.028586",
+        "lon": "105.83584100000007",
+        "name": "PokeStop: Literature Temple"
+      },
+      {
+        "lat": "21.024561",
+        "lon": "105.83245499999998",
+        "name": "Gym: Hang Bot Church"
+      },
+      {
+        "lat": "21.029132",
+        "lon": "105.83634299999994",
+        "name": "PokeStop: Littérature Temple - Hanoi - V"
+      },
+      {
+        "lat": "21.029981",
+        "lon": "105.83783500000004",
+        "name": "PokeStop: Goethe Institut"
+      },
+      {
+        "lat": "21.028355",
+        "lon": "105.834927",
+        "name": "PokeStop: Stone Pillar"
+      },
+      {
+        "lat": "21.028187",
+        "lon": "105.83274699999993",
+        "name": "PokeStop: Chùa Cát Linh"
+      },
+      {
+        "lat": "21.031700999999995",
+        "lon": "105.83948999999996",
+        "name": "PokeStop: V.I. Lenin Statue"
+      },
+      {
+        "lat": "21.027449",
+        "lon": "105.83527900000001",
+        "name": "Gym: Viet-Nam, à Hanoï  le portique"
+      },
+      {
+        "lat": "21.030035999999996",
+        "lon": "105.83633199999997",
+        "name": "PokeStop: Gold Plated Ceramic Tortoise"
+      },
+      {
+        "lat": "21.034660999999996",
+        "lon": "105.83983",
+        "name": "PokeStop: Man and Bonsai Tree"
+      },
+      {
+        "lat": "21.035981",
+        "lon": "105.83898399999998",
+        "name": "Gym: Bac Son Monument"
+      },
+      {
+        "lat": "21.035082",
+        "lon": "105.83332300000006",
+        "name": "PokeStop: stone monument in pond"
+      },
+      {
+        "lat": "21.040877",
+        "lon": "105.832808",
+        "name": "PokeStop: Da Bub Do"
+      },
+      {
+        "lat": "21.032425",
+        "lon": "105.83963500000004",
+        "name": "Gym: Hanoi Flag Tower"
+      },
+      {
+        "lat": "21.042254",
+        "lon": "105.83565899999996",
+        "name": "PokeStop: Flower Fountain"
+      },
+      {
+        "lat": "21.037073",
+        "lon": "105.83302800000001",
+        "name": "PokeStop: Stone Ho Chi Minh Park"
+      },
+      {
+        "lat": "21.041872999999995",
+        "lon": "105.83129499999995",
+        "name": "PokeStop: Yellow House"
+      },
+      {
+        "lat": "21.039327",
+        "lon": "105.83142999999995",
+        "name": "PokeStop: Botanical Swings"
+      },
+      {
+        "lat": "21.035851",
+        "lon": "105.833753",
+        "name": "Gym: One Pillar Pagoda"
+      },
+      {
+        "lat": "21.032983",
+        "lon": "105.83092699999997",
+        "name": "PokeStop: Dinh Xuan Bieu"
+      },
+      {
+        "lat": "21.034721",
+        "lon": "105.83596599999998",
+        "name": "PokeStop: Ho Chi Minh Statue"
+      },
+      {
+        "lat": "21.035586999999996",
+        "lon": "105.83433100000002",
+        "name": "PokeStop: Corindon Stone"
+      },
+      {
+        "lat": "21.040719",
+        "lon": "105.83101599999998",
+        "name": "PokeStop: Escultura Botánico 4 (Love)"
+      },
+      {
+        "lat": "21.039993999999997",
+        "lon": "105.83015699999999",
+        "name": "Gym: Núi Nùng Shrine"
+      },
+      {
+        "lat": "21.040602",
+        "lon": "105.83165099999997",
+        "name": "PokeStop: Co Gai Lao"
+      },
+      {
+        "lat": "21.042137",
+        "lon": "105.83081799999991",
+        "name": "PokeStop: Hanoi Botanical Garden"
+      },
+      {
+        "lat": "21.039450999999996",
+        "lon": "105.833664",
+        "name": "PokeStop: Ho Chi Minh Statue"
+      },
+      {
+        "lat": "21.033758999999996",
+        "lon": "105.83564999999999",
+        "name": "PokeStop: Tranh ở nhà khách chính phủ"
+      },
+      {
+        "lat": "21.035133999999996",
+        "lon": "105.832493",
+        "name": "PokeStop: Ho Chi Minh Museum"
+      },
+      {
+        "lat": "21.036722",
+        "lon": "105.83473700000002",
+        "name": "Gym: Ho Chi Minh's Mausoleum"
+      },
+      {
+        "lat": "21.040355",
+        "lon": "105.83125599999994",
+        "name": "PokeStop: Di Cay"
+      },
+      {
+        "lat": "21.039059",
+        "lon": "105.83469500000001",
+        "name": "PokeStop: Дом Хошемина"
+      },
+      {
+        "lat": "21.033359",
+        "lon": "105.83922000000007",
+        "name": "PokeStop: Khu Trung Tâm Hoàng Thành Thăng Long"
+      },
+      {
+        "lat": "21.03761",
+        "lon": "105.82953999999995",
+        "name": "PokeStop: Đình Ngọc Hà"
+      },
+      {
+        "lat": "21.035262",
+        "lon": "105.83338900000001",
+        "name": "PokeStop: Living Rock"
+      },
+      {
+        "lat": "21.038121",
+        "lon": "105.83490400000005",
+        "name": "PokeStop: Shiny Rock"
+      },
+      {
+        "lat": "21.026367999999998",
+        "lon": "105.79990399999997",
+        "name": "Gym: Old Temple"
+      },
+      {
+        "lat": "21.029102999999996",
+        "lon": "105.80591800000002",
+        "name": "PokeStop: Den Voi Phuc"
+      },
+      {
+        "lat": "21.031286999999995",
+        "lon": "105.80368199999998",
+        "name": "PokeStop: Hanoi Zoo"
+      },
+      {
+        "lat": "21.023399",
+        "lon": "105.80587300000002",
+        "name": "PokeStop: Đại Học Ngoại Thương"
+      },
+      {
+        "lat": "21.02346",
+        "lon": "105.80284099999994",
+        "name": "PokeStop: Nhà Bia Tưởng Niệm Liệt Sĩ Phường Láng Thượng"
+      },
+      {
+        "lat": "21.029106",
+        "lon": "105.79874199999995",
+        "name": "Gym: Ao An Hòa"
+      },
+      {
+        "lat": "21.024065",
+        "lon": "105.79747499999996",
+        "name": "PokeStop: Miếu ở Góc Đường Nguyễn Khang"
+      },
+      {
+        "lat": "21.030012999999997",
+        "lon": "105.795076",
+        "name": "PokeStop: Incinerator"
+      },
+      {
+        "lat": "21.02861",
+        "lon": "105.79888800000003",
+        "name": "PokeStop: Chùa Báo Ân"
+      },
+      {
+        "lat": "21.028648",
+        "lon": "105.79913899999997",
+        "name": "PokeStop: Tháp Phật"
+      },
+      {
+        "lat": "21.024338",
+        "lon": "105.80267100000003",
+        "name": "PokeStop: Chùa Láng"
+      },
+      {
+        "lat": "21.044801999999997",
+        "lon": "105.78954599999997",
+        "name": "PokeStop: Ho Chi Minh Statue"
+      },
+      {
+        "lat": "21.044664",
+        "lon": "105.83614299999999",
+        "name": "PokeStop: Taboo"
+      },
+      {
+        "lat": "21.043256",
+        "lon": "105.83548300000007",
+        "name": "PokeStop: Ly Tu Trong Statue"
+      },
+      {
+        "lat": "21.043616",
+        "lon": "105.83475699999997",
+        "name": "Gym: Potomac"
+      },
+      {
+        "lat": "21.043024",
+        "lon": "105.83571600000005",
+        "name": "Gym: Quan Thánh Pagoda"
+      },
+      {
+        "lat": "21.043040999999995",
+        "lon": "105.83657399999993",
+        "name": "PokeStop: Genie Du Temple "
+      },
+      {
+        "lat": "21.032843",
+        "lon": "105.79546800000003",
+        "name": "PokeStop: Giếng xóm Hà"
+      },
+      {
+        "lat": "21.03567",
+        "lon": "105.80269399999997",
+        "name": "PokeStop (Daily Task): Chùa Duệ Tú"
+      },
+      {
+        "lat": "21.035842",
+        "lon": "105.802456",
+        "name": "Gym: Tượng Bồ Tát Chùa Duệ Tú"
+      },
+      {
+        "lat": "21.033811",
+        "lon": "105.803853",
+        "name": "Gym: Quan Hoa Pagoda"
+      },
+      {
+        "lat": "21.032735",
+        "lon": "105.79838599999994",
+        "name": "Gym: O2 Karaoke"
+      },
+      {
+        "lat": "21.040905",
+        "lon": "105.79949899999997",
+        "name": "PokeStop: Three Little Girls"
+      },
+      {
+        "lat": "21.040308",
+        "lon": "105.79949299999998",
+        "name": "Gym: Maison Communale "
+      },
+      {
+        "lat": "21.034246999999997",
+        "lon": "105.805699",
+        "name": "PokeStop: Las Vegas Building"
+      },
+      {
+        "lat": "21.040558",
+        "lon": "105.79828799999996",
+        "name": "Gym: Musée Ethnographique Du Vietnam "
+      },
+      {
+        "lat": "21.038402",
+        "lon": "105.80575599999997",
+        "name": "PokeStop: Chùa Hoa Lăng"
+      },
+      {
+        "lat": "21.036905",
+        "lon": "105.79539",
+        "name": "PokeStop: Chua Ha"
+      },
+      {
+        "lat": "21.040584",
+        "lon": "105.79721999999992",
+        "name": "PokeStop: NGHIA DO Park Animal"
+      },
+      {
+        "lat": "21.040506",
+        "lon": "105.80549199999996",
+        "name": "PokeStop: Đền Quán Đôi"
+      },
+      {
+        "lat": "21.039328999999995",
+        "lon": "105.82348300000001",
+        "name": "PokeStop: Đền Đống Nước"
+      },
+      {
+        "lat": "21.037777",
+        "lon": "105.82666599999993",
+        "name": "PokeStop: Hồ B-52"
+      },
+      {
+        "lat": "21.035937",
+        "lon": "105.82233499999995",
+        "name": "PokeStop: Chùa Bát Tháp"
+      },
+      {
+        "lat": "21.035495",
+        "lon": "105.82604000000003",
+        "name": "Gym: Bảo tàng Chiến thắng B-52"
+      },
+      {
+        "lat": "21.029694",
+        "lon": "105.88063399999999",
+        "name": "PokeStop: Hellenic Post Epanomi"
+      },
+      {
+        "lat": "21.030203999999998",
+        "lon": "105.88276799999994",
+        "name": "PokeStop: Ho Vuc"
+      },
+      {
+        "lat": "21.032518",
+        "lon": "105.84043399999996",
+        "name": "PokeStop: Cannon at Military Museum"
+      },
+      {
+        "lat": "21.030773",
+        "lon": "105.85314100000005",
+        "name": "PokeStop: Ngoc Son Temple"
+      },
+      {
+        "lat": "21.029612",
+        "lon": "105.83635200000003",
+        "name": "PokeStop: Le Temple de Literature"
+      },
+      {
+        "lat": "21.021278",
+        "lon": "105.79103299999997",
+        "name": "PokeStop: LOTTERIA HN TRUNG KINH"
+      },
+      {
+        "lat": "21.032022",
+        "lon": "105.79722300000003",
+        "name": "PokeStop (Daily Task): AFV Cầu Giấy"
+      },
+      {
+        "lat": "21.014487",
+        "lon": "105.79631300000005",
+        "name": "PokeStop: AFV Trung Yên"
+      },
+      {
+        "lat": "21.032429",
+        "lon": "105.78836000000001",
+        "name": "PokeStop: LOTTERIA HN TRAN THAI TONG"
+      },
+      {
+        "lat": "21.015965",
+        "lon": "105.80835000000002",
+        "name": "PokeStop: AFV Trúc Khê"
+      },
+      {
+        "lat": "21.015348",
+        "lon": "105.85695499999997",
+        "name": "PokeStop: AFV Lò Đúc"
+      },
+      {
+        "lat": "21.017102",
+        "lon": "105.84911999999997",
+        "name": "PokeStop: LOTTERIA HN BA TRIEU"
+      },
+      {
+        "lat": "21.019586",
+        "lon": "105.80849899999998",
+        "name": "PokeStop: LOTTERIA HN HUYNH THUC KHANG"
+      },
+      {
+        "lat": "21.043953999999996",
+        "lon": "105.83634800000004",
+        "name": "PokeStop: LOTTERIA HN HO TAY"
+      },
+      {
+        "lat": "21.036137999999998",
+        "lon": "105.81950699999993",
+        "name": "PokeStop: AFV Đội Cấn"
+      },
+      {
+        "lat": "21.042084",
+        "lon": "105.87003400000003",
+        "name": "PokeStop: AFV N.Văn Cừ 2"
+      },
+      {
+        "lat": "21.042043",
+        "lon": "105.84730200000001",
+        "name": "PokeStop: LOTTERIA HN HANG THAN"
+      },
+      {
+        "lat": "21.029903999999995",
+        "lon": "105.85516400000006",
+        "name": "PokeStop: AFV Lý Thái Tổ"
+      },
+      {
+        "lat": "21.025160999999997",
+        "lon": "105.84965",
+        "name": "PokeStop: LOTTERIA HN TRANG TIEN"
+      },
+      {
+        "lat": "21.01825",
+        "lon": "105.82400600000005",
+        "name": "PokeStop: LOTTERIA HN HOANG CAU"
+      },
+      {
+        "lat": "21.029252",
+        "lon": "105.85816799999998",
+        "name": "PokeStop: AFV T.Q. Khải"
+      },
+      {
+        "lat": "21.026079999999997",
+        "lon": "105.84572099999991",
+        "name": "PokeStop: Hà Nội Towers"
+      },
+      {
+        "lat": "21.020817",
+        "lon": "105.82801700000005",
+        "name": "PokeStop: AFV La Thành"
+      },
+      {
+        "lat": "21.016093",
+        "lon": "105.85627299999999",
+        "name": "PokeStop: LOTTERIA HN LO DUC"
+      },
+      {
+        "lat": "21.024078999999997",
+        "lon": "105.81100300000003",
+        "name": "PokeStop: AFV N.Chí Thanh"
+      },
+      {
+        "lat": "21.031386",
+        "lon": "105.85333100000003",
+        "name": "PokeStop: LOTTERIA HN HOAN KIEM"
+      },
+      {
+        "lat": "21.029217",
+        "lon": "105.82477599999993",
+        "name": "Gym: LOTTERIA HN KIM MA"
+      },
+      {
+        "lat": "21.019231999999995",
+        "lon": "105.83424100000002",
+        "name": "Gym: LOTTERIA HN KHAM THIEN"
+      },
+      {
+        "lat": "21.03784",
+        "lon": "105.80112099999997",
+        "name": "PokeStop: LOTTERIA HN NGUYEN KHANH TOAN"
+      },
+      {
+        "lat": "21.034776",
+        "lon": "105.795252",
+        "name": "Gym: LOTTERIA HN CAU GIAY"
+      },
+      {
+        "lat": "21.045464",
+        "lon": "105.80114400000002",
+        "name": "PokeStop: AFV P. Chí Kiên"
+      }
+    ]
+}
