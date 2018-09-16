@@ -41,6 +41,11 @@ class Map extends Component {
         { enableHighAccuracy: true, maximumAge: 0 }
       )
     }
+    window.addEventListener('keyup', ({ keyCode }) => {      
+      if (keyCode === 68) {
+        this.toggleMapDrag()
+      }
+    })
   }
 
   // geolocation API might be down, use http://ipinfo.io
